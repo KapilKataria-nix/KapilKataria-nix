@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KapilKataria-nix&layout=compact&theme=radical&hide_border=true%22%20width=%22400">
 
 <!--
 **KapilKataria-nix/KapilKataria-nix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
